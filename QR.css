@@ -1,0 +1,38 @@
+body {
+    background-color: hsl(220, 45%, 89%);
+    font-family: Outfit, sans-serif;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background-color: hsl(0, 0%, 100%);
+    width: 320px;
+    height: 450px;
+    border-radius: 10px;
+    margin-top: 60px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.bold {
+    font-size: 16px;
+    font-weight: 700;
+    margin: 10px 10px 15px 10px;
+    color: hsl(218, 44%, 22%);
+    
+}
+
+.normal {
+    font-size: 16px;
+    font-weight: 400;
+    margin: 5px;
+    color: hsl(220, 15%, 55%);
+}
